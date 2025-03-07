@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "172d98d3a091ffd2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "efe893963d678610",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -158,21 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "test_sync/test obsidian.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of test obsidian"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,13 +168,17 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "github-sync:Sync with Remote": false,
-      "fit:Fit Sync": false
+      "fit:Fit Sync": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
   "active": "c912548bb8691204",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Untitled.canvas",
+    "2025-03-07.md",
     "test_sync/test obsidian.md",
+    "Untitled 1.canvas",
+    "Welcome.md",
     "test_sync"
   ]
 }
