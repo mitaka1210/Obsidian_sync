@@ -1,6 +1,6 @@
 {
-  "remoteURL": "",
+  "remoteURL": "https://github.com/mitaka1210/Obsidian_sync.git",
   "gitLocation": "",
-  "syncinterval": 5,
+  "syncinterval": 0,
   "isSyncOnLoad": true
 }
