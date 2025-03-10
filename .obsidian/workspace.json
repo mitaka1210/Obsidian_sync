@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test_sync/test obsidian.md",
+                "file": "script/remove script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test obsidian"
+              "title": "remove script"
             }
           }
         ]
@@ -142,43 +142,46 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test_sync/test obsidian.md",
+                "file": "Welcome.md",
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test obsidian"
+              "title": "Outline of Welcome"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false,
+      "fit:Fit Sync": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false,
-      "fit:Fit Sync": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "c912548bb8691204",
   "lastOpenFiles": [
+    "my_scripts/delete cache from project.md",
+    "script/remove script.md",
+    "script",
     "Untitled.canvas",
     "2025-03-07.md",
     "test_sync/test obsidian.md",
-    "Untitled 1.canvas",
+    "test_sync",
     "Welcome.md",
-    "test_sync"
+    "2025-03-10.md",
+    "my_scripts"
   ]
 }
